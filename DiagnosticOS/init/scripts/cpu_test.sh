@@ -28,7 +28,7 @@
     check_bent_pins() {
         echo "Checking for bent pins requires visual inspection. Please power off the system and inspect the CPU socket."
         echo "Different CPU's may have different pin configurations. Some may not have pins, as they are soldered to the motherboard."
-        If you find bent pins, carefully straighten them using a small tool like a toothpick or a precision screwdriver."
+        echo "If you find bent pins, carefully straighten them using a small tool like a toothpick or a precision screwdriver."
         echo "If you are not comfortable doing this, please seek professional help from a repair shop."
     }
 
