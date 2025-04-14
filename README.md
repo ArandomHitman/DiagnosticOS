@@ -1,6 +1,8 @@
 # DiagnosticOS
 
-Welcome to the DiagnosticOS documentation!
+Welcome to the DiagnosticOS documentation page!
+
+Everything you see here is currently incomplete and subject to change, as the kernel still needs to be properly implemented and tested.
 
 ## Table of Contents
 
